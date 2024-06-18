@@ -1,0 +1,15 @@
+.container {
+  height: 5.813rem;
+  padding: 0.875rem 0.5rem 0.375rem 0.5rem;
+  border-radius: 0.375rem;
+  background-color: white;
+}
+.container__top {
+  display: flex;
+  align-items: center;
+  gap: 0.375rem;
+}
+.container__header {
+  font-size: 0.875rem;
+  font-weight: 600;
+}

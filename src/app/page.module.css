@@ -1,0 +1,15 @@
+.cards {
+  display: flex;
+  justify-content: center;
+  padding: 4rem 2rem;
+  background-color: #f09537;
+  min-height: calc(100vh - 6rem);
+}
+.cards__wrapper {
+  width: 100%;
+  max-width: 40rem;
+  min-height: 18.75rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.813rem;
+}
